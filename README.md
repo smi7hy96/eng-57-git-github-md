@@ -33,7 +33,7 @@ We can use it to create files, navigate our computer or run programs.
 - printenv --> print environment variables (terminal settings)
 
 ## Git
-Git is version control.
+Git is local version control.
 It can go backwards and forwards in time.
 It can also create separate branches to allow us to experiment.
 
@@ -47,7 +47,11 @@ It can also create separate branches to allow us to experiment.
 - 1) commit -m 'message' --> commit change to repo including message of commit
 - 1) checkout --> view a previous commit/ version
 
+## GitHub
+
+- remote --> manage remote connections to origin repo
+  - remote add origin --> link origin repo that we are using
 - pull --> retrieve latest version of repo
-- push --> commit edits to repo
+- push -u origin master --> commit master branch to origin repo
 - merge --> integrate branches back into one master branch
 - clone --> clone an existing repo
