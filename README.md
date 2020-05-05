@@ -45,6 +45,7 @@ It can also create separate branches to allow us to experiment.
 
 - 1) add --> prepare a change to commit
 - 1) commit -m 'message' --> commit change to repo including message of commit
+- 1) checkout --> view a previous commit/ version
 
 - pull --> retrieve latest version of repo
 - push --> commit edits to repo
