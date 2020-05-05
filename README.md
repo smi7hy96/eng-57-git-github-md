@@ -1,7 +1,5 @@
 # Git, Github and Bash  - Title for README
 
-This is an amazing repo! :D
-
 This repo covers the following tools:
 - Git
 - Github
