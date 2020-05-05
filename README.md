@@ -44,8 +44,13 @@ It can also create separate branches to allow us to experiment.
 - 1) add --> prepare a change to commit
 - 1) commit -m 'message' --> commit change to repo including message of commit
 - 1) checkout --> view a previous commit/ version
+- 1) diff --> check the difference between current repo and previous repo
 
 ## GitHub
+
+Online version control to connect local git repos
+
+### More Git Commands
 
 - remote --> manage remote connections to origin repo
   - remote add origin --> link origin repo that we are using
