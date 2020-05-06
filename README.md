@@ -48,7 +48,7 @@ It can also create separate branches to allow us to experiment.
 
 ## GitHub
 
-Online version control to connect local git repos
+Online version control to connect local git repos and store them on a master branch
 
 ### More Git Commands
 
